@@ -1,5 +1,4 @@
-This is the projects that I am creating to use my Raspberry PI Pico for potential
-Geocache hides.
+This is the projects that I am creating while experiementing with my Raspberry PI Picos for potential Geocache hides.
 
 These projects are inspired by caches that I've found in the Catalina State Park area.
 
